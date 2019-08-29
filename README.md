@@ -6,7 +6,11 @@ A deep residual 3D convolutional neural network (TPE-3D-CNN) framework is propos
 
 ![Fig.1 3D-CNN optimized manuelly](https://github.com/aticejiang/TPE_3D_CNN/raw/master/figure/figure3.png)
 
+*Fig.1 3D-CNN optimized manuelly*
+
 ![Fig.2 3D-CNN optimized by TPE algorithm](https://github.com/aticejiang/TPE_3D_CNN/raw/master/figure/figure5.png)
+
+*Fig.2 3D-CNN optimized by TPE algorithm*
 
 The hyperparameters in manuel networks proposed is pre-setting by manuel searchs. The parts inside the dotted frame are included in hyperparameter search space for TPE algorithm. As result, the network optimized by TPE algorithm reduces the number of trainable parameters by half and the training time by about 10%, compared with manual settings. And the accuracy (OA, AA, Kappa) has also been promoted.
 
