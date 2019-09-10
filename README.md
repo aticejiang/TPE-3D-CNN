@@ -12,8 +12,7 @@ A deep residual 3D convolutional neural network (TPE-3D-CNN) framework is propos
 
 *Fig.2 3D-CNN optimized by TPE algorithm*
 
-![Fig.3 TPE Search Space]
-(https://github.com/aticejiang/TPE_3D_CNN/raw/master/figure/TPE_Searchspace.png)
+![Fig.3 TPE Search Space](https://github.com/aticejiang/TPE_3D_CNN/raw/master/figure/TPE_Searchspace.png)
 
 *Fig.3 TPE search space setting: the TPE algorithm works in this space in order to have the best perform of networks, in the limited number of iterations.*
 
